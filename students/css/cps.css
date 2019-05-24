@@ -1,0 +1,130 @@
+BODY
+{
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: x-small
+}
+.module_header {
+	FONT-WEIGHT: bolder; FONT-SIZE: x-small; COLOR: #333366; FONT-FAMILY: Verdana
+}
+.module_body
+{
+    COLOR: black;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+H3
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: medium
+}
+.tab
+{
+    COLOR: white;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+.addpage
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+A
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial
+}
+A .tab
+{
+    COLOR: black;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+.nomodules
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+HR
+{
+    COLOR: black
+}
+.context_bar
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+.content_directory_up_one_directory
+{
+    COLOR: white;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+.error
+{
+    COLOR: black;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: xx-small
+}
+TD
+{
+    FONT-FAMILY: Tahoma;
+    FONT-SIZE: x-small
+}
+.addmodule_header
+{
+    COLOR: white;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small;
+}
+.tab_unsel_nolink
+{
+    COLOR: black;
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: x-small
+}
+.module_subheading
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: xx-small;
+    FONT-WEIGHT: bolder
+}
+.header_greeting
+{
+    COLOR: white;
+    FONT-FAMILY: Tahoma,Verdana,Arial
+}
+H2
+{
+    FONT-FAMILY: Tahoma,Verdana,Arial;
+    FONT-SIZE: large
+}
+
+A:visited.logout
+{
+	COLOR: white;
+}
+
+A.logout
+{
+	COLOR: white;
+}
+
+A:hover.logout
+{
+	COLOR: white;
+    FONT-WEIGHT: bold;
+}
+.error{
+font-size:9px;
+font-family:"Courier New", Courier, monospace;
+color:#FF0000;
+}
+.copyright {FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial}
+.printableHeader{
+font-family:"Courier New", Courier, monospace;
+font-size:16px;
+}
+.printlableBody{
+font-family:"Times New Roman", Times, serif;
+font-size:14px;
+font-variant:small-caps;
+}
