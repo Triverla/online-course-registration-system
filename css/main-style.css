@@ -1,0 +1,171 @@
+/* Created by Jeremy Olu
+Final Year Project 
+N0589165 */
+
+body
+{
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar
+{
+	background-color: #25B99A;
+	margin-bottom: 0;
+	border: 0;
+	border-radius: 0;
+	overflow: hidden;
+}
+.navbar-nav li a:hover, li a:active
+{
+	color: #000000 !important;
+}
+.navbar li a, .navbar-brand 
+{
+   color: #FFFFFF !important;
+}
+ .navbar
+{
+	border-color: #FFFFFF;
+}
+.navbar-toggle
+{
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+
+header
+{
+    background-color: #25B99A;
+    color: #FFFFFF;
+    padding: 100px 25px;
+    text-align: center;
+}
+
+.button 
+{
+    background-color: #25B99A;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.faq-button 
+{
+    background-color: #25B99A;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.faq-button .glyphicon
+{
+    float: right;
+}
+
+.collapse
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.section
+{
+     padding: 60px 50px;
+}
+
+#about
+{
+    background: url(../img/student-using-laptop.jpg) no-repeat center center fixed; 
+	background-size: cover;
+    color: #000000;
+}
+
+#features
+{
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align: center;
+}
+
+#c-heading
+{
+    color: #25B99A;
+}
+
+#contact .collapse
+{
+    background-color: #25B99A;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#contact
+{
+    background: url(../img/teacher-helping-student.jpg) no-repeat center center fixed; 
+	background-size: cover;
+    color: #FFFFFF;
+}
+
+footer h4
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer a 
+{
+    color: #FFFFFF;
+}
+
+footer li a:hover 
+{
+    color: #000000;
+}
+
+footer
+{
+	background-color: #25B99A;
+	left: 0;
+	bottom: 0;
+    text-align: center;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+
+/* login page styling */
+
+#login-head
+{
+    color: #FFFFFF;
+}
+
+#login-section
+{
+    font-size: 250%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#login-section select
+{
+    border: 2px solid #FFFFFF;
+    width: 350px;
+}
