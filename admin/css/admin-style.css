@@ -1,0 +1,198 @@
+/* Created by Jeremy Olu
+Final Year Project 
+N0589165 */
+
+body
+{
+    font-family: 'Nunito', sans-serif;
+    background-color: rgba(223, 239, 253, 0.993);
+}
+
+.navbar
+{
+	background-color: #25B99A;
+	margin-bottom: 0;
+	border: 0;
+	border-radius: 0;
+	overflow: hidden;
+}
+.navbar-nav li a:hover, li a:active
+{
+	color: #000000 !important;
+}
+.navbar li a, .navbar-brand 
+{
+   color: #FFFFFF !important;
+}
+ .navbar
+{
+	border-color: #FFFFFF;
+}
+.navbar-toggle
+{
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+}
+
+#login-head
+{
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#uval, #pval
+{
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+#admin-login-section
+{
+    font-size: 250%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#admin-login-section input
+{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login-button 
+{
+    background-color: #FFFFFF;
+    border: 0;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#other-user a 
+{
+    color: #FFFFFF;
+}
+
+#other-user
+{
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer
+{
+	
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+
+/* Admin Start Styling */
+
+#admin-section
+{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+header
+{
+    background-color: #22AD8D;
+    padding: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.button 
+{
+    background-color: #25B99A;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button:hover
+{
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+#search-bar
+{
+    background-color: #22AA8d;
+    text-align: center;
+    padding: 20px;
+}
+
+#search-bar input[type=text] 
+{
+    background-color: #25B99A;
+    width: 130px;
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 0;
+    outline: none;
+    margin: 0 auto;
+}
+
+#search-bar input[type=text]:focus 
+{
+    width: 100%;
+}
+
+#search-bar ::-webkit-input-placeholder 
+{
+    color: #FFFFFF;
+}
+
+.well-heading
+{
+    text-align: center;
+}
+
+.well
+{
+    background-color: #22AA8D;
+    margin-top: 30px;
+    text-align: center;
+    border: 0;
+    border-radius: 0;
+    color: #FFFFFF;
+    box-shadow: 10px 10px 5px #1D957b;
+}
+
+#manage-section a 
+{
+    color: #FFFFFF;
+}
+
+#manage-section a:hover 
+{
+    text-decoration: none;
+}
+
+.well:hover 
+{
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+#admin-area
+{
+    margin-top: 10px;
+}
+
+/* Admin Dashboard Styling */
+
+.panel
+{
+    background-color: #22AA8D;
+    margin-top: 30px;
+}
